@@ -1,17 +1,22 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Michael Brunette",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mcbrunette33?tab=repositories",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michael-brunette-0800b5233/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
