@@ -1,24 +1,23 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem  Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Oi",
+      "description": "Eu sou Michael Brunette. Estou animado para estar aqui com você hoje. Atualmente, sou corretor de imóveis e jogador de pôquer em Las Vegas, Nevada. Eu sou um veterano da Força Aérea que foi capaz de fazer a transição do meu conhecimento para muitas áreas diferentes. Agora estou fazendo a transição de todas as minhas experiências anteriores para o desenvolvimento de software. A disciplina, a atenção aos detalhes e o esforço para aprender são hábitos que consegui transferir para a área de software. Estou mais interessado em desenvolver aplicativos que nos ajudem com a produtividade. O tempo para os humanos é nosso bem mais valioso. Poder dar mais 'tempo' a todos, é o que eu busco.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre Mim",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "experiência"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "centro comercial",
+        "startDate": "2022",
+        "description": "Um dos primeiros sites que usei no meu curso 201 Code Fellows",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://picsum.photos/200"
         ],
-        "url": "",
+        "url": "https://github.com/mcbrunette33/bus-mall",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Besta Chifruda",
+        "startDate": "2022",
+        "description": "Projeto do meu curso 301 code Fellows",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://picsum.photos/200"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/mcbrunette33/horned-beast",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -98,9 +96,9 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Berkshire Hathaway",
+        "title": "Real Estae Agent",
+        "years": "2021-2022",
         "mainTech": [
           "Angular 7/8"
         ],
